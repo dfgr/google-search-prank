@@ -4,4 +4,4 @@
 3. Click console And Paste The [Code](https://github.com/dfgr/google-search-prank/blob/main/main.js "Code")  
 4. Enter The Infomations
 Simple Working 
-[![Simple Working](Simple Working "Simple Working")](https://raw.githubusercontent.com/dfgr/google-search-prank/main/screenshot.png "Simple Working")
+![Simple Working]("https://raw.githubusercontent.com/dfgr/google-search-prank/main/screenshot.png")
